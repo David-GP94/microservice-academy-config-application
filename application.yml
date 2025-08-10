@@ -1,0 +1,2 @@
+global:
+  message: "Hola, esta es la configuración común desde el Config Server"

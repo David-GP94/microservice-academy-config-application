@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/academy
+    username: root
+    password: root
+custom:
+  message: "Hola desde microservice-academy en perfil DEV"
